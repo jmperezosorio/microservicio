@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.tarea"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "tarea",
+    "packageName": "co.tarea",
+    "packageFolder": "co/tarea",
+    "serverPort": "8090",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTVkYWEzNWMyNmYyN2JkYTUwYTFhNjIzMWQ3OTc1MDkwYmJiN2MxZjJmYTU2ZGM5OWYwYzdmZGY1YjQ0MzEzZDFlMjg4NWE2MzhkOTNkMzhiMzlmYzdiYmZlNDg1MjQwNTNjMWEwZjZmMzY2NzdiZjJkNjQ5YjIzN2RkNTIyZjM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1587342864950,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
